@@ -1,3 +1,10 @@
+/* AUTHOR : EMERI RAPHAEL CHUKWUKA
+  INSTITUTION : COMPLETE COMPUTER AND TECHNOLOGY
+  DATE CREATED : 18/11/2024
+  DATE EDITED : 22/11/2024
+*/
+
+
 #include <iostream>
 #include <string>
 #include "atm.h"
